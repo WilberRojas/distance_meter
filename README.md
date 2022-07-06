@@ -6,7 +6,7 @@ El codigo se desarrollo para funcionar con codigos QR cuadrados. Para los ejempl
 
 Para correr los códigos con los archivos .launch que se indican a continuación, recuerde hacer ejecutables los archivos .py en la ***carpeta scripts***. Puede usar el siguiente comando:
 ```
-chmod +x *py
+chmod +x *.py
 ```
 
 ---
